@@ -40,7 +40,8 @@ Untuk kamu yang ingin belajar bahasa pemrograman python, berikut urutan basic un
 
 - Linux / macOS
 
-    untuk penginstalan, python sudah menyediakan pada linux dan macOS dengan membuka terminal dan memberikan perintah
-    ```
+    Pada Linux dan macOS, Python sudah tersedia secara default, cukup dengan membuka terminal dan memberikan perintah:
+
+    ```bash
     python3 --version
     ```
