@@ -6,7 +6,7 @@
 
 Selamat datang di pemrograman Python dasar. Di sini kalian dapat memulai serta mencoba pertama kali pemrograman Python.
 
-## Daftar Isi{#1}
+## [Daftar Isi][#1]
 
 - Introduction
   - [Daftar Isi](#1)
