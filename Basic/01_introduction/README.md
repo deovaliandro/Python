@@ -6,7 +6,7 @@
 
 Selamat datang di pemrograman Python dasar. Di sini kalian dapat memulai serta mencoba pertama kali pemrograman Python.
 
-## [Daftar Isi][#1]
+## [Daftar Isi](#1)
 
 - Introduction
   - [Daftar Isi](#1)
@@ -34,7 +34,7 @@ Contoh implementasi dari bahasa pemograman Python adalah:
 - Pengembangan web seperti [Django](https://www.djangoproject.com) atau [Flask](https://flask.palletsprojects.com),
 - Pengembangan dari situs web dan layanan sperti [Dropbox](https://www.dropbox.com), [BuzzFeed](https://www.buzzfeed.com) dan [Uber](https://www.uber.com).
 
-## Contoh `Hello World` pada python {#3}
+## [Contoh `Hello World` pada python](#3)
 
 ```python
 print("hello bellshade")
