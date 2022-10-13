@@ -1,4 +1,4 @@
-# Python
+# Introduksi
 
 <p align="center">
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
@@ -6,14 +6,14 @@
 
 Selamat datang di pemrograman Python dasar. Di sini kalian dapat memulai serta mencoba pertama kali pemrograman Python.
 
-<a id="1"><h2>Daftar Isi</h2></a>
+## Daftar Isi {#1}
 
 - Introduction
   - [Daftar Isi](#1)
   - [Gambaran Singkat](#2)
   - [Contoh Hello World](#3)
 
-<a id="2"><h2>Gambaran Singkat Tentang Bahasa Pemrograman Python</h2></a>
+## Gambaran Singkat Tentang Bahasa Pemrograman Python {#2}
 
 Python dibuat dan dikembangkan oleh [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), programmer yang berasal dari Belanda. Python dibuat dengan menggunakan bahasa pemrograman C sebagai basisnya. Pemilihan nama Python itu sendiri diambil dari sebuah acara televisi yang lumayan terkenal yang bernama **Monty Python’s Flying Circus** yang merupakan acara sirkus favorit dari Guido.
 
@@ -34,7 +34,7 @@ Contoh implementasi dari bahasa pemograman Python adalah:
 - Pengembangan web seperti [Django](https://www.djangoproject.com) atau [Flask](https://flask.palletsprojects.com),
 - Pengembangan dari situs web dan layanan sperti [Dropbox](https://www.dropbox.com), [BuzzFeed](https://www.buzzfeed.com) dan [Uber](https://www.uber.com).
 
-<a id="3"><h2>Contoh `Hello World` pada python</h2></a>
+## Contoh `Hello World` pada python {#3}
 
 ```python
 print("hello bellshade")
