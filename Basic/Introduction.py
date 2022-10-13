@@ -3,4 +3,5 @@
 # output dari apa yang kita inginkan
 # Misalnya, output yang diinginkan adalah Turki,
 # maka kita mengetikkan Turki, seperti dibawah ini
+
 print("Negara Turki")
